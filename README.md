@@ -5,17 +5,17 @@ A Task Management Web Application that allows users to efficiently create, manag
 ---
 
 🔗 **Live Demo:**
-[Task Manager]()
+[Task Manager](https://frontend-developer-task-manager.onrender.com)
 
 ---
 
 🔗 **Backend Deployment Link:**
-[Task Manager]()
+[Task Manager](https://frontend-developer-task-manager-backend.onrender.com)
 
 ---
 
 🔗 **Github Link:**
-[Task Manager]()
+[Task Manager](https://github.com/sushants2711/Frontend-Developer-task-manager)
 
 ---
 
