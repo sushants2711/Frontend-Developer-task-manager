@@ -109,6 +109,10 @@ export const AllTask = () => {
     };
 
     const handleDelete = async (id) => {
+
+        const confirmed = window.confirm("Are you sure you want to delete this task?");
+        if (!confirmed) return;
+
         try {
             const result = await deleteTaskApi(id);
             const { success, message, error } = result;
